@@ -58,5 +58,10 @@ However, you might need TitanX or 1080 Ti, otherwise the memory might not be eno
 
 The code was written about a year ago so I used Tensorflow 1.3.0 and Python 3.5.
 
+# To do next...
+I forgot to give names to the placeholders and output of the graph, so test.py is quite cumbersome.
+
+I will write a function to load the graph from meta file directly later.
+
 # Reference
 Kendall, Alex, et al. "End-to-End Learning of Geometry and Context for Deep Stereo Regression." arXiv preprint arXiv:1703.04309 (2017).
