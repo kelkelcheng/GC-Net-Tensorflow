@@ -1,7 +1,11 @@
 # GC-Net-Tensorflow
 **End-to-End Learning of Geometry and Context for Deep Stereo Regression**
 
-It is a simple Tensorflow implementation of the paper [link](https://arxiv.org/pdf/1703.04309.pdf).
+It is a simple Tensorflow implementation of the paper [https://arxiv.org/pdf/1703.04309.pdf](https://arxiv.org/pdf/1703.04309.pdf).
+
+Test on images from Middlebury Stereo Dataset
+
+![cones](https://github.com/kelkelcheng/GC-Net-Tensorflow/blob/master/middlebury/cones/test_disparity.jpg)
 
 # Train
 To train this model from scratch, you will need to download the data from 
